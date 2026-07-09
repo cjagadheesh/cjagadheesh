@@ -97,11 +97,6 @@ End-to-end platform automating claims processing via intelligent document analys
 
 ### 📊 GitHub Stats
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjagadheesh&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjagadheesh&theme=tokyo-night&hide_border=true" />
 </p>
