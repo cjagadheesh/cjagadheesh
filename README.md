@@ -1,249 +1,192 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7B61FF&height=200&section=header&text=Jagadheesh%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Teaching%20machines%20to%20see,%20reason%20and%20ship&descSize=18&descAlignY=58" alt="Jagadheesh C" width="100%" />
+
+<img src="matrixrain-jagadheesh.svg" alt="Matrix Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=CSE+%40+Chennai+Institute+of+Technology;Computer+Vision+%7C+GenAI+%7C+Full-Stack;Turning+messy+data+into+models+that+ship" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jagadheesh07/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=50&lines=%3E+Machine+Learning+Intern+%40+Hyundai+Motor+India;%3E+Building+YOLOv8+%26+Computer+Vision+systems+that+ship;%3E+Exploring+LLMs%2C+RAG+%26+Prompt+Engineering;%3E+Full-Stack+%7C+Python+%2F+Node.js+%2F+FastAPI;%3E+Turning+messy+real-world+data+into+real+products" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jagadheeeeesh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=cjagadheesh&style=for-the-badge&color=2F80ED" alt="profile views" />
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-00E5FF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/BASE-CHENNAI%2C%20IN-7B61FF?style=flat-square&labelColor=0d1117" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/jagadheesh07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jagadheeeeesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/cjagadheesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</div>
-
-<br/>
-
----
-
-## 👾 `whoami`
-
-```python
-class Jagadheesh:
-    role      = "AI/ML Engineer (in the making)"
-    studying  = "B.E. Computer Science @ Chennai Institute of Technology (2024 – 2028)"
-    interned  = ["Hyundai Motor India  →  ML / Computer Vision",
-                 "Evolve Robot Lab     →  Generative AI"]
-    superpower = "Turning messy real-world data into models that actually ship"
-    stack     = ["Computer Vision", "GenAI & LLMs", "Full-Stack"]
-    currently = "Building AI products: CV pipelines, GenAI chatbots, hiring engines"
-    rank      = "JEE Main 2024 → 97.79 percentile (AIR 9677)"
-    also      = "Smart India Hackathon participant"
-
-    def mission(self):
-        return "From factory floors to chat windows — build intelligent systems that matter."
-```
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-**⚙️ Languages & Backend**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-**🧠 AI / ML & Automation**<br/>
-<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
-**🗄️ Data & Infra**<br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-
 </div>
 
 ---
 
-## 📈 Impact Dashboard
+## 🧑‍💻 About Me
 
-> *Numbers from things I've actually built and shipped.*
+- 🎓 Computer Science undergrad at **Chennai Institute of Technology** (2024 – 2028)
+- ⚡ **Messy data enthusiast** — I like turning noisy real-world data into models that actually ship. Computer vision, LLMs, full-stack... if it can be made intelligent, I'm probably prototyping it.
+- 💼 Machine Learning Intern @ **Hyundai Motor India** — built a YOLOv8 PPE detection system for factory safety
+- 🤖 Generative AI Intern @ **Evolve Robot Lab** — shipped multi-turn AI chatbots with prompt engineering
+- 🏆 **97.79 percentile** in JEE Main 2024 (AIR 9677) · Smart India Hackathon participant
 
-<div align="center">
+---
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<br>
+
+![CV](https://img.shields.io/badge/Computer%20Vision-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 🔨 Currently Building
 
 <table>
 <tr>
-<td align="center" width="25%">
-<h2>72% → 89%</h2>
-<b>mAP lift</b><br/>
-<sub>YOLOv8 PPE detection via dataset cleaning & augmentation</sub>
-</td>
-<td align="center" width="25%">
-<h2>5,000+</h2>
-<b>profiles trained on</b><br/>
-<sub>Neural candidate-scoring model in Credence</sub>
-</td>
-<td align="center" width="25%">
-<h2>~40%</h2>
-<b>fewer irrelevant replies</b><br/>
-<sub>Context-aware multi-turn chatbot workflows</sub>
-</td>
-<td align="center" width="25%">
-<h2>3</h2>
-<b>chatbots deployed</b><br/>
-<sub>Built on OpenAI & Groq APIs</sub>
+<td valign="top">
+
+### 🎯 Credence &nbsp; `in progress`
+**AI Hiring Engine**
+
+A full-stack hiring platform that evaluates candidates on what they actually build. Integrates **GitHub and LeetCode APIs** to generate skill graphs, then ranks candidates with a **neural-network scoring model trained on 5,000+ profiles**.
+
+`Python` `Node.js` `Neural Networks` `REST APIs`
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🧬 How I Build
+## 🚀 Featured Projects
 
-Every project I ship follows the same loop — **data first, model second, product always.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-flowchart LR
-    A["🗂️ Messy Real-World Data"] --> B["🧹 Clean & Augment"]
-    B --> C["🧠 Train / Prompt-Engineer"]
-    C --> D["📊 Evaluate & Iterate"]
-    D -->|"not good enough"| B
-    D -->|"ship it"| E["⚡ API · FastAPI / Node.js"]
-    E --> F["🚀 Deploy · Docker / AWS"]
-    F --> G["🏭 Real Users, Real Impact"]
+### 🛡️ PPE Detection System
+**Factory Safety-Gear Compliance Detection**
 
-    style A fill:#1a1a2e,stroke:#00E5FF,color:#fff
-    style C fill:#1a1a2e,stroke:#7B61FF,color:#fff
-    style E fill:#1a1a2e,stroke:#00E5FF,color:#fff
-    style G fill:#1a1a2e,stroke:#7B61FF,color:#fff
-```
+Computer vision system built at Hyundai Motor India to detect workplace safety-gear compliance. Fine-tuned **YOLOv8** and lifted mAP from **72% → 89%** through dataset cleaning and augmentation.
 
----
+`YOLOv8` `OpenCV` `Python` `Computer Vision`
 
-## 🛰️ Mission Log
+</td>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>🏭 PPE Detection System — Hyundai Motor India</b> &nbsp;·&nbsp; <code>Computer Vision</code></summary>
-<br/>
+### 📄 AI Insurance Claims Automation
+**Intelligent Document & Workflow Platform**
 
-Factory-floor safety shouldn't depend on someone watching a camera feed.
+End-to-end platform that automates insurance claims processing using intelligent document analysis and workflow automation, replacing manual paperwork with a streamlined pipeline.
 
-- 🎯 **Mission:** automatically detect workplace safety-gear compliance
-- 🔧 **Approach:** fine-tuned **YOLOv8**; the real gains came from dataset cleaning and augmentation, not just model tweaking
-- 📈 **Result:** mAP **72% → 89%**
-- 🧰 `YOLOv8` `OpenCV` `Python`
+`Python` `n8n` `Document AI` `Automation`
 
-</details>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<details>
-<summary><b>🎯 Credence — AI Hiring Engine</b> &nbsp;·&nbsp; <code>Full-Stack + ML</code></summary>
-<br/>
+### 🤖 GenAI Chatbot Suite
+**Context-Aware Multi-Turn AI Assistants**
 
-Resumes lie. Code doesn't.
+Three deployed chatbots on **OpenAI and Groq APIs** with context-aware, multi-turn workflows built through careful prompt engineering. Cut irrelevant responses by **~40%**.
 
-- 🎯 **Mission:** evaluate candidates on what they actually build
-- 🔧 **Approach:** integrates **GitHub & LeetCode APIs** to generate skill graphs, then scores candidates with a **neural network trained on 5,000+ profiles**
-- 🧰 `Python` `Node.js` `Neural Networks` `REST APIs`
+`OpenAI` `Groq` `Prompt Engineering` `Python`
 
-</details>
-
-<details>
-<summary><b>📄 AI Insurance Claims Automation</b> &nbsp;·&nbsp; <code>Document AI + Workflow</code></summary>
-<br/>
-
-- 🎯 **Mission:** take claims processing from manual paperwork to an automated pipeline
-- 🔧 **Approach:** end-to-end platform combining intelligent document analysis with workflow automation
-- 🧰 `Python` `n8n` `Document AI`
-
-</details>
-
-<details>
-<summary><b>🤖 GenAI Chatbot Suite — Evolve Robot Lab</b> &nbsp;·&nbsp; <code>LLMs + Prompt Engineering</code></summary>
-<br/>
-
-- 🎯 **Mission:** chatbots that remember the conversation and stay on topic
-- 🔧 **Approach:** 3 deployed bots on **OpenAI / Groq** with context-aware, multi-turn workflows
-- 📈 **Result:** ~**40% fewer irrelevant responses**
-- 🧰 `OpenAI` `Groq` `Prompt Engineering` `Python`
-
-</details>
-
----
-
-## 🔭 Radar
-
-| 🟢 Shipping | 🟡 Learning | 🔵 Exploring |
-|:--|:--|:--|
-| YOLOv8 pipelines | RAG architectures | Agentic workflows |
-| GenAI chatbots | LLM evaluation | Edge deployment for CV |
-| FastAPI / Node services | MLOps with Docker & AWS | Multimodal models |
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=cjagadheesh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cjagadheesh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjagadheesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<br>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=cjagadheesh&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cjagadheesh&theme=tokyo-night&hide_border=true" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cjagadheesh/cjagadheesh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
 
-## 🏅 Certifications
+## 💼 Experience
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-Basics%20for%20Students-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Deloitte-Technology%20Job%20Simulation-86BC25?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ServiceNow-Creator%20Studio%20Accreditation-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
-
-</div>
+| Role | Organization | Focus |
+|---|---|---|
+| Machine Learning Intern | Hyundai Motor India | YOLOv8 PPE detection for factory safety |
+| Generative AI Intern | Evolve Robot Lab | Multi-turn AI chatbots & prompt engineering |
 
 ---
 
-## 🤝 Let's Build Something
+## 🎓 Certifications
 
-<div align="center">
-
-Got a computer vision problem, a GenAI idea, or a hackathon team that needs one more builder?
-
-<a href="mailto:jagadheeeeesh@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-jagadheeeeesh%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/jagadheesh07/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>⭐ From safety-critical CV systems to shipping GenAI chatbots — always exploring the next intelligent system to build.</i>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00E5FF&height=120&section=footer" alt="footer" width="100%" />
-</div>
+| Credential | Issuer |
+|---|---|
+| CCNA — Introduction to Networks | Cisco Networking Academy |
+| AWS Cloud Practitioner Essentials | Amazon Web Services |
+| MongoDB Basics for Students | MongoDB |
+| Technology Job Simulation | Deloitte |
+| Creator Studio Delivery Accreditation | ServiceNow |
