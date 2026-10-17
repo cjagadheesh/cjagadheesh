@@ -179,20 +179,6 @@ A college information assistant that supports **English, Hindi, and Tamil**, wit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cjagadheesh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cjagadheesh/cjagadheesh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</div>
-
----
-
 ## 💼 Experience
 
 | Role | Organization | Focus |
