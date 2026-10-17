@@ -1,7 +1,12 @@
 <div align="center">
 
+<<<<<<< HEAD
 <img src="terminal-jagadheesh.svg" alt="Terminal Intro" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Applied+AI%2FML+%26+Full-Stack+Development;Computer+Vision+%7C+LLMs+%7C+RAG+%7C+OCR;2nd+Prize+%40+SEBI+TechSprint+2026;CSE+%40+Chennai+Institute+of+Technology" alt="Typing SVG" />
+=======
+<img src="matrixrain-jagadheesh.svg" alt="Matrix Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=CSE+%40+Chennai+Institute+of+Technology;Computer+Vision+%7C+GenAI+%7C+Full-Stack;Turning+messy+data+into+models+that+ship" alt="Typing SVG" />
+>>>>>>> origin/main
 
 </div>
 
@@ -19,6 +24,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 🏆 Highlights
 
 <table>
@@ -53,6 +59,15 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
 - 🤖 Generative AI Intern at **Evolve Robot Lab** — built and deployed multi-turn chatbots with RAG and REST API integrations
 - ☁️ Interested in taking ML applications from data and models through APIs, containers, and cloud deployment
 - 🌱 Building my skills in **Linux, Docker, Kubernetes, AWS, and networking**
+=======
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science undergrad at **Chennai Institute of Technology** (2024 – 2028)
+- ⚡ **Messy data enthusiast** — I like turning noisy real-world data into models that actually ship. Computer vision, LLMs, full-stack... if it can be made intelligent, I'm probably prototyping it.
+- 💼 Machine Learning Intern @ **Hyundai Motor India** — built a YOLOv8 PPE detection system for factory safety
+- 🤖 Generative AI Intern @ **Evolve Robot Lab** — shipped multi-turn AI chatbots with prompt engineering
+- 🏆 **97.79 percentile** in JEE Main 2024 (AIR 9677) · Smart India Hackathon participant
+>>>>>>> origin/main
 
 ---
 
@@ -61,6 +76,7 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
 <table>
   <tr>
     <td align="center" width="96">
+<<<<<<< HEAD
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
       <br>Docker
     </td>
@@ -77,10 +93,13 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
       <br>Nginx
     </td>
     <td align="center" width="96">
+=======
+>>>>>>> origin/main
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
+<<<<<<< HEAD
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" />
       <br>FastAPI
     </td>
@@ -89,14 +108,37 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
       <br>Node.js
+=======
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
+      <br>C++
+>>>>>>> origin/main
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
+<<<<<<< HEAD
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" />
       <br>C++
+=======
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+      <br>OpenCV
+>>>>>>> origin/main
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
@@ -107,14 +149,28 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
       <br>MySQL
     </td>
     <td align="center" width="96">
+<<<<<<< HEAD
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
       <br>Django
+=======
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <br>Linux
+>>>>>>> origin/main
     </td>
   </tr>
 </table>
 
 <br>
 
+<<<<<<< HEAD
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -125,6 +181,15 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
 ![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OCR](https://img.shields.io/badge/OCR%20%26%20Document%20AI-3566A5?style=for-the-badge)
+=======
+![CV](https://img.shields.io/badge/Computer%20Vision-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs%20%26%20RAG-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-fcd34d?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+>>>>>>> origin/main
 
 ---
 
@@ -134,10 +199,17 @@ Built **IPO Sherpa**, an AI-powered platform for SME IPO document analysis, comp
 <tr>
 <td valign="top">
 
+<<<<<<< HEAD
 ### 🎯 Credence
 **AI Hiring Engine**
 
 A full-stack hiring platform that uses **GitHub and LeetCode data** to build candidate skill graphs, with a neural-network scoring model trained on **5,000+ profiles**.
+=======
+### 🎯 Credence &nbsp; `in progress`
+**AI Hiring Engine**
+
+A full-stack hiring platform that evaluates candidates on what they actually build. Integrates **GitHub and LeetCode APIs** to generate skill graphs, then ranks candidates with a **neural-network scoring model trained on 5,000+ profiles**.
+>>>>>>> origin/main
 
 `Python` `Node.js` `Neural Networks` `REST APIs`
 
@@ -151,6 +223,7 @@ A full-stack hiring platform that uses **GitHub and LeetCode data** to build can
 
 <table>
 <tr>
+<<<<<<< HEAD
 <td colspan="2" valign="top">
 
 ### 🥈 [IPO Sherpa — SME IPO Compliance & Drafting Platform](https://github.com/cjagadheesh/Automated-IPO-Drafter) &nbsp; `2nd Prize · SEBI TechSprint 2026`
@@ -158,17 +231,46 @@ A full-stack hiring platform that uses **GitHub and LeetCode data** to build can
 Automates document analysis and compliance workflows for SME IPO preparation. Combines OCR, RAG over SEBI ICDR requirements, cross-document validation, and AI-assisted prospectus drafting, with Docker-based deployment and a 75-test offline suite.
 
 `FastAPI` `React` `Docker` `OCR` `RAG` `LLMs` `Polygon`
+=======
+<td width="50%" valign="top">
+
+### 🛡️ PPE Detection System
+**Factory Safety-Gear Compliance Detection**
+
+Computer vision system built at Hyundai Motor India to detect workplace safety-gear compliance. Fine-tuned **YOLOv8** and lifted mAP from **72% → 89%** through dataset cleaning and augmentation.
+
+`YOLOv8` `OpenCV` `Python` `Computer Vision`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 AI Insurance Claims Automation
+**Intelligent Document & Workflow Platform**
+
+End-to-end platform that automates insurance claims processing using intelligent document analysis and workflow automation, replacing manual paperwork with a streamlined pipeline.
+
+`Python` `n8n` `Document AI` `Automation`
+>>>>>>> origin/main
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
+<<<<<<< HEAD
 ### 🌊 [OceanPulse — Maritime Freight Forecasting & Procurement](https://github.com/cjagadheesh/Freight-Cost-Detection-using-garch-and-catboost)
 
 A forecasting and procurement optimization application combining GARCH and CatBoost models with SHAP explanations, time-series forecasts, and a PuLP-based vessel and procurement planner. The repository clearly labels its bundled dataset as illustrative, so forecast results should be treated as prototype outputs.
 
 `Python` `GARCH` `CatBoost` `SHAP` `PuLP` `FastAPI` `React`
+=======
+### 🤖 GenAI Chatbot Suite
+**Context-Aware Multi-Turn AI Assistants**
+
+Three deployed chatbots on **OpenAI and Groq APIs** with context-aware, multi-turn workflows built through careful prompt engineering. Cut irrelevant responses by **~40%**.
+
+`OpenAI` `Groq` `Prompt Engineering` `Python`
+>>>>>>> origin/main
 
 </td>
 </tr>
@@ -176,6 +278,7 @@ A forecasting and procurement optimization application combining GARCH and CatBo
 
 ---
 
+<<<<<<< HEAD
 ## 🧭 Leveling Up
 
 | 🟢 In daily use | 🟡 Actively learning | 🔵 Next on the list |
@@ -187,6 +290,8 @@ A forecasting and procurement optimization application combining GARCH and CatBo
 
 ---
 
+=======
+>>>>>>> origin/main
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -205,8 +310,13 @@ A forecasting and procurement optimization application combining GARCH and CatBo
 
 | Role | Organization | Focus |
 |---|---|---|
+<<<<<<< HEAD
 | Machine Learning Intern | Hyundai Motor India | PPE detection with YOLOv8; safety analytics dashboard |
 | Generative AI Intern | Evolve Robot Lab | Multi-turn chatbots, RAG, and REST API integrations |
+=======
+| Machine Learning Intern | Hyundai Motor India | YOLOv8 PPE detection for factory safety |
+| Generative AI Intern | Evolve Robot Lab | Multi-turn AI chatbots & prompt engineering |
+>>>>>>> origin/main
 
 ---
 
@@ -214,8 +324,16 @@ A forecasting and procurement optimization application combining GARCH and CatBo
 
 | Credential | Issuer |
 |---|---|
+<<<<<<< HEAD
 | AWS Cloud Practitioner Essentials | Amazon Web Services |
 | CCNA — Introduction to Networks | Cisco Networking Academy |
 | ServiceNow Creator Studio Delivery Accreditation | ServiceNow |
 | MongoDB Basics for Students | MongoDB |
 | Technology Job Simulation | Deloitte |
+=======
+| CCNA — Introduction to Networks | Cisco Networking Academy |
+| AWS Cloud Practitioner Essentials | Amazon Web Services |
+| MongoDB Basics for Students | MongoDB |
+| Technology Job Simulation | Deloitte |
+| Creator Studio Delivery Accreditation | ServiceNow |
+>>>>>>> origin/main
