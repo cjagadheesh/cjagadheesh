@@ -188,7 +188,7 @@ A college information assistant that supports **English, Hindi, and Tamil**, wit
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cjagadheesh/cjagadheesh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/daks19/daks19/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
