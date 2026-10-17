@@ -1,5 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Jagadheesh%20C&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Teaching%20machines%20to%20see%2C%20reason%20%26%20ship&descSize=18&descAlignY=58" alt="header" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7B61FF&height=200&section=header&text=Jagadheesh%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Teaching%20machines%20to%20see,%20reason%20and%20ship&descSize=18&descAlignY=58" alt="Jagadheesh C" width="100%" />
+</div>
 
 <div align="center">
 
@@ -9,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=cjagadheesh&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=cjagadheesh&style=for-the-badge&color=2F80ED" alt="profile views" />
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20BUILD-00E5FF?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/BASE-CHENNAI%2C%20IN-7B61FF?style=flat-square&labelColor=0d1117" />
 
@@ -242,4 +244,6 @@ Got a computer vision problem, a GenAI idea, or a hackathon team that needs one 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00E5FF&height=120&section=footer" alt="footer" width="100%" />
+</div>
