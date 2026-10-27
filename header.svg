@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="t d">
+<title id="t">jagadheesh</title>
+<desc id="d">Jagadheesh, cloud, DevOps and Linux. A small diagram shows requests going from a client through an nginx load balancer to three app containers and a database.</desc>
+<style>
+  :root { --bg:#ffffff; --edge:#d0d7de; --ink:#1f2328; --mut:#656d76; --wire:#afb8c1; --box:#f6f8fa; --acc:#0969da; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#0d1117; --edge:#30363d; --ink:#e6edf3; --mut:#8b949e; --wire:#3d444d; --box:#161b22; --acc:#58a6ff; }
+  }
+  text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill:var(--ink); }
+  .name { font-size:40px; font-weight:600; letter-spacing:-1px; }
+  .sub { font-size:16px; fill:var(--mut); }
+  .lbl { font-size:12px; text-anchor:middle; }
+  .wire { fill:none; stroke:var(--wire); stroke-width:1.5; }
+  .node { fill:var(--box); stroke:var(--edge); stroke-width:1.2; }
+  .pkt { fill:var(--acc); }
+  @media (prefers-reduced-motion: reduce) { .pkt { display:none } }
+</style>
+
+<rect x="0.5" y="0.5" width="999" height="259" rx="8" fill="var(--bg)" stroke="var(--edge)"/>
+
+<text class="name" x="56" y="122">jagadheesh</text>
+<text class="sub" x="58" y="156">cloud · devops · linux</text>
+
+<!-- wiring -->
+<path class="wire" d="M528 130 H580"/>
+<path class="wire" d="M660 130 H690 M690 77 V183 M690 77 H720 M690 130 H720 M690 183 H720"/>
+<path class="wire" d="M810 77 H840 M810 130 H840 M810 183 H840 M840 77 V183 M840 130 H872"/>
+
+<!-- traffic -->
+<path id="p1" d="M528 130 H690 V77 H840 V130 H872" fill="none"/>
+<path id="p2" d="M528 130 H872" fill="none"/>
+<path id="p3" d="M528 130 H690 V183 H840 V130 H872" fill="none"/>
+<circle class="pkt" r="3.5"><animateMotion dur="3s" begin="0s" repeatCount="indefinite"><mpath href="#p1"/></animateMotion></circle>
+<circle class="pkt" r="3.5"><animateMotion dur="3s" begin="-1s" repeatCount="indefinite"><mpath href="#p2"/></animateMotion></circle>
+<circle class="pkt" r="3.5"><animateMotion dur="3s" begin="-2s" repeatCount="indefinite"><mpath href="#p3"/></animateMotion></circle>
+
+<!-- nodes -->
+<circle class="node" cx="512" cy="130" r="16"/>
+<text class="lbl" x="512" y="166">client</text>
+
+<rect class="node" x="580" y="112" width="80" height="36" rx="4"/>
+<text class="lbl" x="620" y="134">nginx</text>
+
+<rect class="node" x="720" y="62" width="90" height="30" rx="4"/>
+<text class="lbl" x="765" y="81">app</text>
+<rect class="node" x="720" y="115" width="90" height="30" rx="4"/>
+<text class="lbl" x="765" y="134">app</text>
+<rect class="node" x="720" y="168" width="90" height="30" rx="4"/>
+<text class="lbl" x="765" y="187">app</text>
+
+<path class="node" d="M872 114 v32 a26 7 0 0 0 52 0 v-32"/>
+<ellipse class="node" cx="898" cy="114" rx="26" ry="7"/>
+<text class="lbl" x="898" y="176">db</text>
+
+</svg>
